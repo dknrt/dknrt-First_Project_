@@ -1,0 +1,41 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    display: flex;
+    gap: 40px;
+  }
+  
+  .title {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+  }
+  
+  button {
+    margin-top: 200px;
+  }
+  
+  .btn1 {
+    border: 1px solid red;
+    padding: 20px;
+    background-color: red;
+    border-radius: 20px;
+    cursor: pointer;
+    color: azure;
+  }
+  
+  .btn2 {
+    border: 1px solid green;
+    padding: 20px;
+    background-color: green;
+    border-radius: 20px;
+    color: azure;
+    cursor: pointer;
+  }
+  
+  body{
+    background-color: #000;
+  }
